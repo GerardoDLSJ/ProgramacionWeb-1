@@ -35,8 +35,9 @@ body{
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
-    width: 100px;
-    height: 100px;
+    width: 40px;
+    height: 40px;
+    margin-top: 40px;
 }
 
 .gifs{
@@ -45,5 +46,10 @@ body{
     margin-right: auto;
     width: 400px;
     height: 400px
+}
+
+.header-centrado{
+    margin: 0 auto;
+    width: 1000px;
 }
 
