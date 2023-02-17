@@ -1,5 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    text-decoration:overline;
+    margin: 30px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px grey;
+    color: white;
+    letter-spacing: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
 body{
-    background-color: #F23209;
+    background-color: crimson;
 }
 
 .zurita{
